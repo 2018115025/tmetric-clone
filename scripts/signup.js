@@ -18,7 +18,7 @@ function SignupForm(){
         error.innerText = "Signup Successful!"
         error.style.color = "green"
         setTimeout(()=>{
-            window.location.href="../index.html"
+            window.location.href="../html/login.html"
         }, 3000)
     }
 }
