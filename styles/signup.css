@@ -1,5 +1,6 @@
 *{
     padding: 0px;
+    margin: 0px;
 }
 #login{
     width: 90%;
@@ -19,7 +20,7 @@
     width:38%;
     margin: auto;
     margin-top: 30px;
-    height:100vh;
+    height:105vh;
     border: 1px solid lightgray;
     border-radius: 2px;
 
@@ -38,7 +39,7 @@
     padding-bottom: 20px;
 }
 #part1 p{
-    font-size: 30px;
+    font-size: 25px;
     font-weight:100px;
     /* background-color:#f2f5fc; */
     margin-bottom: 15px;
@@ -48,13 +49,20 @@
     width: 80%;
     margin: auto;
     /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#p2 div{
+    gap:10px;
+    /* border: 1px solid; */
 }
 #p2 input{
     width:100%;
-    height:35px;
+    height:33px;
     border: 1px solid lightgray;
     border-radius: 7px;
-    font-size: 15px;
+    font-size: normal;
     color: grey;
     font-weight:lighter ;
     /* margin-bottom: 15px; */
@@ -71,7 +79,7 @@ span:hover{
     width: 100%;
     height:37px;
     color: white;
-    font-size: 15px;
+    font-size: normal;
     font-weight: bold;
     margin-top: 25px;
     border: 0px;
@@ -87,6 +95,9 @@ span:hover{
     width:80%;
     margin: auto;
 }
+#error{
+    text-align: center;
+}
 #line{
     display: flex;
     justify-content: space-between;
@@ -98,7 +109,7 @@ span:hover{
 }
 #p3{
     width:100%;
-    height:15vh;
+    height:20vh;
     /* border: 1px solid; */
     display: flex;
     flex-direction: column;
@@ -109,7 +120,7 @@ span:hover{
     height:37px;
     border: 1px solid lightgray;
     border-radius: 7px;
-    font-size: 15px;
+    font-size: normal;
     color: grey;
     font-weight:lighter ;
     display: flex;
