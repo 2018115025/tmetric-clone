@@ -1,12 +1,12 @@
 *{
     padding: 0px;
     margin: 0px;
-    font-family: PT Root UI Web;
+    
 }
 /* nav bar */
 #nav{
     width:100%;
-    height:80px;
+    height:60px;
     background-color: #fff0b8;
     /* border: 1px solid; */
     display: flex;
@@ -26,14 +26,14 @@ h4:hover{
 }
 #nav>div:nth-child(1){
     display: flex;
-    width:15%;
+    width:18%;
     gap:10px;
     align-items: center;
     /* border: 1px solid; */
 }
 #en{
     width:90px;
-    font-size: 21px;
+    font-size: normal;
 
     
 }
@@ -46,17 +46,17 @@ h4:hover{
     margin: center;
     border: 1.5px solid lightgrey;
     border-radius: 5px;
-    /* border: 2px solid lightgrey; */
+    /* border: 1px solid ; */
 }
-/* #nav img{
-    height:75px;
-} */
+#nav img{
+    height:50%;
+}
 #nav-mid{
     /* border: 1px solid; */
     width: 45%;
     display: flex;
     justify-content: space-between;
-    font-size: 21px;
+    font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-weight:lighter;
 }
@@ -73,7 +73,7 @@ h4:hover{
     gap: 30px;
 }
 #login{
-    font-size: 21px;
+    font-size: large;
     /* font-weight: lighter; */
 }
 #signup{
@@ -81,7 +81,7 @@ h4:hover{
     height: 40px;
     display: block;
     margin: center;
-    font-size: 20px;
+    font-size: normal;
     font-weight: bold;
     color: #3a76ed ;
     border:2px solid #3a76ed;
@@ -96,8 +96,9 @@ h4:hover{
 }
 /* part-1 */
 #part1{
-    height: 70vh;
+    height: 75vh;
     background-color: #fff0b8;
+    /* border: 1px solid; */
 }
 #p1{
     width:90%;
@@ -107,11 +108,11 @@ h4:hover{
     /* border: 1px solid; */
 }
 #part1 h1{
-    font-size: 70px;
+    font-size: 55px;
     font-weight: bolder;
 }
 #part1 p{
-    font-size: 25px;
+    font-size: larger;
     font-weight:bold;
 }
 #div1{
@@ -122,9 +123,11 @@ h4:hover{
     gap:30px;
 }
 #email{
-    height: 50px;
+    height: 40px;
     width:70%;
-    font-size: large;
+    font-size: normal;
+    font-weight: bold;
+    color:rgb(175, 169, 169);
     border-radius: 5px;
     border: 1px solid lightgray;
 }
@@ -135,10 +138,10 @@ h4:hover{
 }
 #trial button{
     height: 50px;
-    width: 250px;
+    width: 230px;
     background-color: #3a76ed;
     color: white;
-    font-size: large;
+    font-size: normal;
     border-radius: 5px;
     border: #3a76ed;
 }
@@ -148,7 +151,7 @@ h4:hover{
 }
 #trial h3{
     font-weight: normal;
-    font-size: 21px;
+    font-size: large;
     color: #7c7368;
 }
 #div2{
@@ -181,7 +184,7 @@ h4:hover{
 }
 /* part-3 */
 .p3h1{
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
 #part3{
@@ -195,6 +198,10 @@ h4:hover{
 #p3div1{
     width:65%;
     /* border: 1px solid; */
+}
+#p3div1 img{
+    width:100%;
+    height: 100%;
 }
 #p3div2{
     width:30%;
@@ -222,27 +229,31 @@ h4:hover{
 }
 #part4{
     width: 90%;
+    height: 100%;
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    /* border: 1px solid; */
 }
 #p4div1{
     width: 45%;
-    height: 50vh;
+    height: 80%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    /* border: 1px solid; */
+    padding-top: 20px;
 }
 #p4div1 h1{
-    font-size: 50px;
+    font-size: 35px;
 }
 #p4div1 button{
     height: 50px;
-    width: 250px;
+    width: 230px;
     background-color: #3a76ed;
     color: white;
-    font-size: large;
+    font-size: normal;
     border-radius: 5px;
     border: #3a76ed;
 }
@@ -251,7 +262,7 @@ h4:hover{
     transition: 1s;
 }
 #list{
-    font-size: 25px;
+    font-size: large;
 }
 #list ul{
     padding-left: 60px;
@@ -260,7 +271,16 @@ h4:hover{
 #list ul li{
     padding-top: 1.5%;
 }
-
+#p4div2{
+    /* border:1px solid; */
+    height:83%;
+    width:50%;
+}
+#p4div2>img{
+    height:100%;
+    width: 100%;
+    /* border: 1px solid; */
+}
 /* part-5 */
 #part5{
     width:55%;
@@ -273,10 +293,10 @@ h4:hover{
     text-align: center;
 }
 #part5 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 #part5 p{
-    font-size: 22px;
+    font-size: large;
 } 
 #part5 div{
     display: flex;
@@ -287,10 +307,10 @@ h4:hover{
 }
 #part5 button{
     height: 50px;
-    width: 250px;
+    width: 230px;
     background-color: #3a76ed;
     color: white;
-    font-size: large;
+    font-size: normal;
     border-radius: 4px;
     border: #3a76ed;
 }
@@ -356,21 +376,21 @@ h4:hover{
     align-items: center;
 }
 #part6 h1{
-    font-size: 40px;
+    font-size: 35px;
 }
 #part6 h2{
-    font-size: 40px;
+    font-size: 35px;
     color: #3170ec;
 }
 hr{
-    border: 1px solid rgb(240, 238, 238);
+    border: 0.5px solid rgb(240, 238, 238);
 }
 /* part-7 */
 #part7{
     height: 25vh;
     background-color: #f6f7f8;
     text-align: center;
-    font-size: 20px;
+    font-size: normal;
     /* border: 1px solid; */
 }
 #p7{
@@ -401,7 +421,7 @@ hr{
 }
 #p8h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 #part8 div{
     border:1px solid lightgray;
@@ -412,6 +432,8 @@ hr{
     justify-content: space-around;
     align-items: center;
     padding-left: 30px;
+    font-size: normal;
+    font-weight:bold;
 }
 /* part-9 */
 #part9{
@@ -421,9 +443,10 @@ hr{
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+
 }
 #part9 h1{
-    font-size: 55px;
+    font-size: 50px;
     color: white;
 }
 #part9 button{
@@ -507,7 +530,7 @@ hr{
     display: flex;
     align-items: center;
     padding-left: 5%;
-    font-size: 21px;
+    font-size: normal;
 }
 
 .foot-text:hover{
@@ -526,7 +549,7 @@ hr{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 20px;    
+    font-size: normal;    
 }
 #last>div:nth-child(1){
     margin-left: 50px;
