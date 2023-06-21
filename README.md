@@ -1,5 +1,6 @@
 <h1 align="center">CLONE OF TMETRIC WEBSITE</h1>
-<img src="https://lh3.googleusercontent.com/U6z3cdvJedjXlaJyPDOK-hcxSBJbuAEnLWG8GTO9vGfA1vcPtjIovqx9z3c2GrWOkcQNldUFhkU-F0AG8th-G7mJQpoQJTMxGZ06yX4" width="100%" ><br>
+![tmetric_front](https://github.com/2018115025/tmetric-clone/assets/84760752/1a1e6f7e-bdb3-4c38-a738-11f88598f96c)
+<br>
 
 <h1 align="center" >PROJECT DESCRIPTION</h1>
 <p>With Tmetric web application,you can easily track time on tasks and increase productivity, and monitor your team performance.An individual project completed in 5 days.</p>
