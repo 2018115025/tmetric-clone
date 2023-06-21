@@ -1,5 +1,5 @@
 <h1 align="center">CLONE OF TMETRIC WEBSITE</h1>
-![tmetric_front](https://github.com/2018115025/tmetric-clone/assets/84760752/1a1e6f7e-bdb3-4c38-a738-11f88598f96c)
+<img src="https://github.com/2018115025/tmetric-clone/assets/84760752/1a1e6f7e-bdb3-4c38-a738-11f88598f96c"></img>
 <br>
 
 <h1 align="center" >PROJECT DESCRIPTION</h1>
@@ -7,37 +7,35 @@
 <ul>
       <li><h4 align="left" > Netlify-link-  https://tmetric-clonee.netlify.app/ </h4></li> 
 </ul>
+
+
+## Frontend Technologies
+- HTML
+- JavaScript
+- CSS
+
+
+
 <!-- signup page -->
 <h1 align="center">SIGNUP PAGE</h1>
-
-<img src="https://lh3.googleusercontent.com/-pt6Mkb0EQFBznAcpf_YFNQtKMiBxM0gLOxamKuDB-40ttTA_xp0xFpC_CkjTG0expc433-cv0fl0JR_rM8-_afCJMasaCoiLl7VOdAZdw" width="100%"><br>
-
+<p align="center">
+<img src="https://github.com/2018115025/tmetric-clone/assets/84760752/ef2c3929-f8f0-4e91-876e-442f3579f440" width=50%><be>
+</p>
 <!-- cart2 -->
 <h1 align="center">PRICING PAGE</h1>
 
-<img src="https://lh3.googleusercontent.com/X1ARj5bRdQaFTtIDkHCqjbIhjuIzL9pntqwgexjtudZ10tU-ynQCPf8xgDwdY7_wOGu88YibzJqShewdDnudcBs7cOnCRKdlM3hLvZQ" width="100%"><br>
+![pricing](https://github.com/2018115025/tmetric-clone/assets/84760752/01cc31fa-e967-49c3-89d8-55cfb7a9a0d9)
 
 
 
 <!-- ABOUT PAGE -->
 <h1 align="center" > SUPPORT PAGE </h1>
 
-<img src="https://lh3.googleusercontent.com/vm8fehPqTreVtjfVHc1ZQk9Gp4EJM3g8wx3934wcMdLuD19Oc8HMSEw0UPZEtq5WToMyPCY6V784LaukyAldv57fBod5Z_oGjKKbFzjF" width="100%" ><br>
+![support](https://github.com/2018115025/tmetric-clone/assets/84760752/793645a5-5468-49a6-9abb-33b0e0a61e98)
 
 <!-- check out -->
 <h1 align="center">ABOUT PAGE</h1>
 
-<img src="https://lh3.googleusercontent.com/ug9cPR3rOCxgGNknbDLf2x2LOKM0H3kRiAyCmf3FAW3VYfAhnyDjIRj3zhF-mxHpO9R5PLicDytqUNlMBDkGKVTYDxMBgVPNOYD2sQlc1g" width="100%"><br>
+![about](https://github.com/2018115025/tmetric-clone/assets/84760752/4fbdd79a-2e07-4999-adce-7f44197d0255)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/dhanushpriyan-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priti tiwari" height="30" width="40" /></a>
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/067ffb056532cde345427e76832cabdcd59f65b1e54102ed17996e2ffac8acfb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d323031383131353032352673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="dhanush" /></a> </p>
-
-<h1 align="left">Languages and Tools:</h1>
-<h4 align="left">HTML, CSS, JavaScript</h4>
-
-
-<p><img align="center" src="https://camo.githubusercontent.com/7e8331a3fdb8d2c7d9c2c686f287a23b109d3e8e69b7423e8e7e2daa2f7beea3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d3230313831313530323526" alt="dhanush" /></p>
